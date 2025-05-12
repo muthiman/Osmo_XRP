@@ -8,19 +8,11 @@ This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via 
 
 ### Background: Alloyed XRP
 
-**Alloyed XRP** is already established as the canonical XRP representation on Osmosis. It currently has a circulating supply of approximately **\$100k** on Osmosis. The asset is composed of multiple bridged variants of XRP, each with an individual cap to manage risk:
+**Alloyed XRP** is already established as the canonical XRP representation on Osmosis. It currently has a circulating supply of approximately **\$17k** on Osmosis. The asset is composed of one bridged variant of XRP:
 
-| Variant           | Origin                      | Cap |
+| Variant           | Origin                      | Suuply |
 | ----------------- | --------------------------- | --- |
-| `XRP.axl`         | Axelar (Ethereum)           | 75% |
-| `XRP.kava`        | IBC from Kava EVM           | 75% |
-| `XRP.wh`          | Wormhole (Ethereum)         | 75% |
-| `XRP.pica`        | Picasso (Solana)            | 40% |
-| `XRP.inj`         | Injective Bridge (Ethereum) | 75% |
-| `XRP.rt`          | Router Bridge               | 5%  |
-| `XRP.e.op.axl`    | Axelar via Optimism         | 20% |
-| `XRP.e.arb.axl`   | Axelar via Arbitrum         | 20% |
-| `XRP.e.matic.axl` | Axelar via Polygon          | 20% |
+| `XRP.core`        | Coreum                      | 100% |
 
 ---
 
