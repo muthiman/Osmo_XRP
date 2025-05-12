@@ -38,7 +38,7 @@ This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, all
 
 ---
 
-### About Eureka
+### About Bitfrost
 
 **Bitfrost** is the first interoperability solution offering a more efficient and transparent mechanism for cross-chain asset transfers for UTXOs and XRP. It enables **permissionless**, **secure**, and **cost-effective** bridging between Ethereum and the Cosmos ecosystem through the Cosmos Hub.
 
