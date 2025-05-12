@@ -1,7 +1,3 @@
-Certainly! Here's the revised documentation-style text with the requested changes:
-
----
-
 ## Proposal: Add `XRP.int3` to Alloyed XRP
 
 ### Overview
