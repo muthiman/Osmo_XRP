@@ -6,13 +6,13 @@ Certainly! Here's the revised documentation-style text with the requested change
 
 ### Overview
 
-This proposal seeks to add **`XRP.int3`**—XRP bridged from Ethereum to Osmosis via the Cosmos Hub’s **Eureka** product—as a new constituent of **Alloyed XRP**. The proposal includes setting an **initial static cap of 20%** to limit exposure while adoption matures.
+This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via the Bitfrost Bridge as a new constituent of **Alloyed XRP**. The proposal includes setting an **initial static cap of 20%** to limit exposure while adoption matures.
 
 ---
 
 ### Background: Alloyed XRP
 
-**Alloyed XRP** was established as the canonical XRP representation on Osmosis in **Proposal 792**. It currently has a circulating supply of approximately **\$1 million** on Osmosis. The asset is composed of multiple bridged variants of XRP, each with an individual cap to manage risk:
+**Alloyed XRP** is already established as the canonical XRP representation on Osmosis. It currently has a circulating supply of approximately **\$100k** on Osmosis. The asset is composed of multiple bridged variants of XRP, each with an individual cap to manage risk:
 
 | Variant           | Origin                      | Cap |
 | ----------------- | --------------------------- | --- |
@@ -30,7 +30,7 @@ This proposal seeks to add **`XRP.int3`**—XRP bridged from Ethereum to Osmosis
 
 ### Proposed Addition
 
-This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, allowing deposits via the Cosmos Hub’s **Eureka** bridge.
+This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, allowing deposits via the Bitfrost bridge.
 
 * **Initial Cap**: 20%
 * **Initial Exposure**: \~\$200,000
@@ -40,9 +40,9 @@ This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, all
 
 ### About Eureka
 
-**Eureka** is the first interoperability solution based on **IBC v2**, offering a more efficient and transparent mechanism for cross-chain asset transfers. It enables **permissionless**, **secure**, and **cost-effective** bridging between Ethereum and the Cosmos ecosystem through the Cosmos Hub.
+**Bitfrost** is the first interoperability solution offering a more efficient and transparent mechanism for cross-chain asset transfers for UTXOs and XRP. It enables **permissionless**, **secure**, and **cost-effective** bridging between Ethereum and the Cosmos ecosystem through the Cosmos Hub.
 
-* **Learn more**: [https://cosmos.network/ibc-eureka/](https://cosmos.network/ibc-eureka/)
+* **Learn more**: https://int3face.zone/ 
 
 ---
 
