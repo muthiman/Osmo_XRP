@@ -10,7 +10,7 @@ This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via 
 
 **Alloyed XRP** is already established as the canonical XRP representation on Osmosis. It currently has a circulating supply of approximately **\$17k** on Osmosis. The asset is composed of one bridged variant of XRP:
 
-| Variant           | Origin                      | Suuply |
+| Variant           | Origin                      | Supply |
 | ----------------- | --------------------------- | --- |
 | `XRP.core`        | Coreum                      | 100% |
 
