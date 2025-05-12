@@ -49,8 +49,5 @@ This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, all
 
 ---
 
-**Target On-Chain Governance Date**: **May 5, 2025**
+**Target On-Chain Governance Date**: **May 19, 2025**
 
----
-
-Let me know if you'd like a version of this tailored to Markdown, a governance forum template, or Notion.
