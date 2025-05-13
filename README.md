@@ -2,7 +2,7 @@
 
 ### Overview
 
-This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via the Bitfrost Bridge as a new constituent of **Alloyed XRP**. The proposal includes setting an **initial static cap of x%** to limit exposure while adoption matures.
+This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via the Bitfrost Bridge as a new constituent of **Alloyed XRP**. The proposal includes setting an **initial static cap of 100%**. The rationale for this 100% cap rather than the standard 20% is due to the unique nature of the current alloy , which is comprised of a single asset (XRP.core). This alloy has extremely low liquidity and in order for the pool to service general purpose, we require exceeding the total liquidity of the alloy.
 
 ---
 
@@ -20,7 +20,7 @@ This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via 
 
 This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, allowing deposits via the Bitfrost bridge.
 
-* **Initial Cap**: x%
+* **Initial Cap**: 100%
 * **Initial Exposure**: \~\$200,000
 * **Rationale**: The cap is set conservatively to mitigate risk associated with the deployment of a new bridging product. This limit can be adjusted via governance as the bridge gains usage and demonstrates stability.
 
