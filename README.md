@@ -8,7 +8,7 @@ This proposal seeks to add **`XRP.int3`**—XRP bridged from XRP to Osmosis via 
 
 ### Background: Alloyed XRP
 
-**Alloyed XRP** is already established as the canonical XRP representation on Osmosis. It currently has a circulating supply of approximately **\$17k** on Osmosis. The asset is composed of one bridged variant of XRP:
+**Alloyed XRP** is already established as the canonical XRP representation on Osmosis. It currently has a circulating supply of approximately **\$140k** on Osmosis. The asset is composed of one bridged variant of XRP:
 
 | Variant           | Origin                      | Supply |
 | ----------------- | --------------------------- | --- |
@@ -28,7 +28,7 @@ This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, all
 
 ### About Bitfrost
 
-**Bitfrost** is the first interoperability solution offering a more efficient and transparent mechanism for cross-chain asset transfers for UTXOs and XRP. It enables **permissionless**, **secure**, and **cost-effective** bridging between Ethereum and the Cosmos ecosystem through the Cosmos Hub.
+**Bitfrost** is a high-performance Layer-1 blockchain implementing a novel leaderless, dynamic Threshold Signature Scheme (TSS) for secure cross-chain asset transfers. Built using a modified Cosmos SDK with Proof-of-Authority consensus, Bitfrost establishes trust-minimised bridges between heterogeneous blockchain architectures, particularly focusing on unlocking UTXO-based assets and now **XRP** for broader ecosystem utility. Bitfrost is developing a **permissionless**, **secure**, and **cost-effective** asset bridge between XRP and the Cosmos ecosystem through the Cosmos Hub.
 
 * **Learn more**: https://int3face.zone/ 
 
