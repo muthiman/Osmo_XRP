@@ -34,6 +34,11 @@ This proposal recommends including **`XRP.int3`** in the Alloyed XRP basket, all
 
 ---
 
+### Bitfrost's contributions to Osmosis so far
+
+Bitfrost is currently serving Osmosis with bridged Doge as **Doge.int3**. Doge.int3 comprises 100% of the doge alloy. This pool is one of the most active pools on Osmosis and has traded over $50M in volume. Morover, Bitfrost has contributed to the Toncoin alloy pool as Ton.int3, although this makes up only 0.6% of the alloy. 
+
+
 ### Additional Resources
 
 * **Alloyed Assets Blog Post**: [Read here](#)
